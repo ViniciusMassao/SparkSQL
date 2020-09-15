@@ -2,4 +2,4 @@
 Trabalho de SparkSQL
 
 # Descrição
-Link com os arquivos de input dentro da pasta ./in. A pasta output é onde o resultado de alguns código geram o arquivo de saída.
+Pasta ./in contem um link onde tem um arquivo compactado que contem todos os inputs para o projeto e a pasta onde os arquivos devem ser descompacatado. Pasta ./output onde você pode colocar os arquivos de output gerados pelos arquivos(não necessário).
